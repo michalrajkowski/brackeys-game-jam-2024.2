@@ -10,7 +10,7 @@ The game was created using Python and [Pyxel](https://github.com/kitao/pyxel?tab
 ## Daily Progress
 
 ### 2024-09-08
-???
+![Example GIF](gifs/pirate_ship_1.gif)
 
 ### 2024-09-09
 ???
