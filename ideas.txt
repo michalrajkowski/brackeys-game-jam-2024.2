@@ -9,3 +9,9 @@ Title: Calm before the Storm
 - GET EXTRA POINTS FOR DELIVERY TIME??
 - SEA BATTLES?
 
+# Surfer surfing mechanics + tricks
+    + surfing mechanics:
+        - can rotate in the air?
+        - force pulling downwards but not less than 
+        - very small surfer so easy to animate etc?
+        - 
