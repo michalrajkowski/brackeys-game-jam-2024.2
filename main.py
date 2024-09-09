@@ -195,7 +195,7 @@ class App:
         all_above = True
         for index, p in enumerate(p_semi_absolute):
             # check if this point is below sea level
-            if int(p[1]) > int(wave_points[index][1]):
+            if int(p[1]) >= int(wave_points[index][1]):
                 all_above = False
                 break
 
